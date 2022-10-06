@@ -1,0 +1,1 @@
+This repository contains personal documentation about docker as well as instructions on how to dockerize an application.
